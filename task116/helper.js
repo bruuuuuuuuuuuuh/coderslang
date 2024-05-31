@@ -1,0 +1,1 @@
+export const strings = ["asdasd", "dsa", "asa", "sasa", 'asdaasd'];
